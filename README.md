@@ -2,3 +2,18 @@
 
 ### Lectures
 [1] [learnopencv](https://github.com/spmallick/learnopencv)
+
+
+
+### backbone
+- GoogLeNet
+- VGGNet
+- ResNet
+- DenseNet
+
+### Classification
+
+### detection
+
+### Segmentation
+
