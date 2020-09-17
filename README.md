@@ -16,7 +16,6 @@
 
 
 ## Papers and books
-* [deep learning book](https://www.deeplearningbook.org/)
 * [Meta-Learning: Learning to Learn Fast](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html#optimization-based)
 * [Tackling Open Challenges in Offline Reinforcement Learning](https://ai.googleblog.com/2020/08/tackling-open-challenges-in-offline.html?fbclid=IwAR0yE6XsueZhJKcuNz4LjyYpFxkecc7s3OFVyJuXi40cwOk4NmoI8SKDNqo)
 * [Recent Advances in Deep Learning for Object Detection](https://arxiv.org/pdf/1908.03673v1.pdf)
@@ -24,10 +23,14 @@
 * [bert]
 * [Approaches, Challenges, and Applications for Deep Visual Odometry: Toward to Complicated and Emerging Areas](https://arxiv.org/pdf/2009.02672.pdf)
 * [A 2020 guide to Semantic Segmentation](https://nanonets.com/blog/semantic-image-segmentation-2020/?fbclid=IwAR3G6Dabb99YMEfeS8ZZQ9Be6Z-8D0PtENX1G6Ot_SY5dssGVfsCOh6tw4s)
-
-| papers        | paper           | code  |
-| ------------- |:-------------:| -----:|
+### papers
+| title         | paper           | code  |
+| ------------- |:---------------:| -----:|
 | Bootstrap your own latent: A new approach to self-supervised Learning     | [paper](https://arxiv.org/abs/2006.07733) | [code] |
+
+### books
+* [deep learning book](https://www.deeplearningbook.org/)
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 #### Architectures
