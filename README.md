@@ -26,7 +26,7 @@
 ### papers
 | title         | paper           | code  |
 | ------------- |:---------------:| -----:|
-| Bootstrap your own latent: A new approach to self-supervised Learning     | [paper](https://arxiv.org/abs/2006.07733) | [code] |
+| Bootstrap your own latent: A new approach to self-supervised Learning     | [paper](https://arxiv.org/abs/2006.07733) | [code](https://github.com/deepmind/deepmind-research/tree/master/byol) |
 
 ### books
 * [deep learning book](https://www.deeplearningbook.org/)
