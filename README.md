@@ -13,7 +13,7 @@
 * [pytorch tricks](https://wjddyd66.github.io/pytorch/Pytorch-Problem/)
 @@ -20,7 +29,7 @@
 * [Learning to Summarize with Human Feedback](https://openai.com/blog/learning-to-summarize-with-human-feedback/?fbclid=IwAR3G6Dabb99YMEfeS8ZZQ9Be6Z-8D0PtENX1G6Ot_SY5dssGVfsCOh6tw4s#rf21)
-
+* [[영상] 초보자도 쉽게 GPT-3를 사용해 혼자서 GPT-3 모델을 구현한다](http://www.aitimes.kr/news/articleView.html?idxno=17777&fbclid=IwAR2zqy1vcf1Ig-GmtlM8O3eIgcj_LnXsN7_4sDUe2iwQjpsan03CrXt3FAQ)
 
 ## Papers and books
 * [Meta-Learning: Learning to Learn Fast](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html#optimization-based)
@@ -27,6 +27,7 @@
 | title         | paper           | code  |
 | ------------- |:---------------:| -----:|
 | Bootstrap your own latent: A new approach to self-supervised Learning     | [paper](https://arxiv.org/abs/2006.07733) | [code](https://github.com/deepmind/deepmind-research/tree/master/byol) |
+| Explainable Face Recognition | [paper](https://arxiv.org/pdf/2008.00916.pdf) | [code](https://github.com/stresearch/xfr) |
 
 ### books
 * [deep learning book](https://www.deeplearningbook.org/)
