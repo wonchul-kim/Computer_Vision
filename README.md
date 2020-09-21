@@ -25,11 +25,11 @@
 * [A 2020 guide to Semantic Segmentation](https://nanonets.com/blog/semantic-image-segmentation-2020/?fbclid=IwAR3G6Dabb99YMEfeS8ZZQ9Be6Z-8D0PtENX1G6Ot_SY5dssGVfsCOh6tw4s)
 ### papers
 | area | title         | paper           | code  |
-| ---- | ------------- |:---------------:| -----:|
-|      | Bootstrap your own latent: A new approach to self-supervised Learning     | [paper](https://arxiv.org/abs/2006.07733) | [code](https://github.com/deepmind/deepmind-research/tree/master/byol) |
-|      | Explainable Face Recognition | [paper](https://arxiv.org/pdf/2008.00916.pdf) | [code](https://github.com/stresearch/xfr) |
+|:---- |:------------- |:---------------:| -----:|
+| a     | Bootstrap your own latent: A new approach to self-supervised Learning     | [paper](https://arxiv.org/abs/2006.07733) | [code](https://github.com/deepmind/deepmind-research/tree/master/byol) |
+| a     | Explainable Face Recognition | [paper](https://arxiv.org/pdf/2008.00916.pdf) | [code](https://github.com/stresearch/xfr) |
 |tracking | Simple Online and Realtime Tracking | [paper](https://arxiv.org/abs/1602.00763) | [code](https://github.com/abewley/sort)|
-
+|         |
 ### books
 * [deep learning book](https://www.deeplearningbook.org/)
 
