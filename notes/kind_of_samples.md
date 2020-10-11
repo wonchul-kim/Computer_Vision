@@ -10,3 +10,15 @@ object detection에서 실제로 detection하고자 하는 object를 호함하�
 
 일반적으로 object detection에서 false negative 가 발생하는 이유는 positive sample에 비해 negative sample이 굉장히 많은 클래스 불균형 문제 때문이다. 이러한 클래스 불균형 문제는 성능에 끼치는 영향이 크다. 예를 들어서, 얼굴을 인식하는 프로젝트에 대해서 얼굴에 대한 bounding box(ROI)를 하나의 positive sample이라고 할 때, 그 이외의 background인 negative sample이 더 많은게 일반적이다.  
 
+
+* positive samples:
+detection하고자 하는 object를 포함하는 이미지의 ROI
+
+* negative samples:
+그 이외의 backgroud에 대한 이미지의 ROI
+
+> hard negative samples:
+실제로 negative sample인데 positive로 예측하기 쉬운 sample
+
+> easy negative samples:
+실제로 negative samples이고, negative로 예측하기 쉬운 sample
