@@ -35,7 +35,7 @@
 |      | Explainable Face Recognition | [paper](https://arxiv.org/pdf/2008.00916.pdf) | [code](https://github.com/stresearch/xfr) |
 |tracking | Simple Online and Realtime Tracking | [paper](https://arxiv.org/abs/1602.00763) | [code](https://github.com/abewley/sort)|
 | data augmentation | mixup: BEYOND EMPIRICAL RISK MINIMIZATION | [paper](https://arxiv.org/pdf/1710.09412.pdf)| [code](https://github.com/facebookresearch/mixup-cifar10)|
-
+|  | Asymmetric Loss For Multi-Label Classification | [paper](https://arxiv.org/pdf/2009.14119.pdf)| [code](https://github.com/Alibaba-MIIL/ASL)|
 ### books
 * [deep learning book](https://www.deeplearningbook.org/)
 
