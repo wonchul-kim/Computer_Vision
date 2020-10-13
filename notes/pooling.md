@@ -12,3 +12,5 @@ GAP는 기존에 일반적으로 사용되는 구조인 CNN + FC에서 FC를 cla
 즉, GAP를 활용하면 입력되는 크기와 관계없이 사용할 수 있다.
 
 ### Max pooling
+
+https://jsideas.net/class_activation_map/
