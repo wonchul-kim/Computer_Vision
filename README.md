@@ -15,6 +15,8 @@
 * [Learning to Summarize with Human Feedback](https://openai.com/blog/learning-to-summarize-with-human-feedback/?fbclid=IwAR3G6Dabb99YMEfeS8ZZQ9Be6Z-8D0PtENX1G6Ot_SY5dssGVfsCOh6tw4s#rf21)
 * [[영상] 초보자도 쉽게 GPT-3를 사용해 혼자서 GPT-3 모델을 구현한다](http://www.aitimes.kr/news/articleView.html?idxno=17777&fbclid=IwAR2zqy1vcf1Ig-GmtlM8O3eIgcj_LnXsN7_4sDUe2iwQjpsan03CrXt3FAQ)
 * http://blog.naver.com/PostView.nhn?blogId=sogangori&logNo=221073537958
+* https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215
+
 
 ## Papers and books
 * [Meta-Learning: Learning to Learn Fast](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html#optimization-based)
