@@ -31,14 +31,14 @@
 * image & video: detection, classification, segmentation, tracking, pose estimation, action recoginition, ...
 
 
-| area | title         | paper           | code  | review |
-|:---- |:------------- |:---------------:|:-----:|-------:|
-|      | Bootstrap your own latent: A new approach to self-supervised Learning     | [paper](https://arxiv.org/abs/2006.07733) | [code](https://github.com/deepmind/deepmind-research/tree/master/byol) |
-|      | Explainable Face Recognition | [paper](https://arxiv.org/pdf/2008.00916.pdf) | [code](https://github.com/stresearch/xfr) |  | 
+| title         | paper           | code  | review |
+|:------------- |:---------------:|:-----:|-------:|
+| Bootstrap your own latent: A new approach to self-supervised Learning     | [paper](https://arxiv.org/abs/2006.07733) | [code](https://github.com/deepmind/deepmind-research/tree/master/byol) |
+| Explainable Face Recognition | [paper](https://arxiv.org/pdf/2008.00916.pdf) | [code](https://github.com/stresearch/xfr) |  | 
 |tracking | Simple Online and Realtime Tracking | [paper](https://arxiv.org/abs/1602.00763) | [code](https://github.com/abewley/sort)|  |
 | data augmentation | mixup: BEYOND EMPIRICAL RISK MINIMIZATION | [paper](https://arxiv.org/pdf/1710.09412.pdf)| [code](https://github.com/facebookresearch/mixup-cifar10)|  |
-|  | Asymmetric Loss For Multi-Label Classification | [paper](https://arxiv.org/pdf/2009.14119.pdf)| [code](https://github.com/Alibaba-MIIL/ASL)|  |
-|  | Learning Deep Features for Discriminative Localization | [paper](https://arxiv.org/pdf/1512.04150.pdf) | [code](https://github.com/zhoubolei/CAM) |  |
+| Asymmetric Loss For Multi-Label Classification | [paper](https://arxiv.org/pdf/2009.14119.pdf)| [code](https://github.com/Alibaba-MIIL/ASL)|  |
+| Learning Deep Features for Discriminative Localization | [paper](https://arxiv.org/pdf/1512.04150.pdf) | [code](https://github.com/zhoubolei/CAM) |  |
 
 
 ### books
