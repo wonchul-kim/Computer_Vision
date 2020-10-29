@@ -39,6 +39,7 @@
 | mixup: BEYOND EMPIRICAL RISK MINIMIZATION | [paper](https://arxiv.org/pdf/1710.09412.pdf)| [code](https://github.com/facebookresearch/mixup-cifar10)|  |
 | Asymmetric Loss For Multi-Label Classification | [paper](https://arxiv.org/pdf/2009.14119.pdf)| [code](https://github.com/Alibaba-MIIL/ASL)|  |
 | Learning Deep Features for Discriminative Localization | [paper](https://arxiv.org/pdf/1512.04150.pdf) | [code](https://github.com/zhoubolei/CAM) |  |
+| CSPNet: A New Backbone that can Enhance Learning Capability of CNN | [paper](https://arxiv.org/pdf/1911.11929.pdf) | [code]() |  |
 
 
 ### books
