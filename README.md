@@ -18,6 +18,7 @@
 * https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215
 * https://theaisummer.com/normalization/?fbclid=IwAR0QOKt7NnQ4mgTnFWhlkV4XhoA6UJcLuSr7WDz2z_Kvlp2voA6i0-vynqg
 * self-drvigin car: https://prateek-sawhney97.medium.com/introduction-to-convolutional-neural-networks-for-self-driving-cars-c61e4224508
+* [A journey into Convolutional Neural Network visualization](https://towardsdatascience.com/a-journey-into-convolutional-neural-network-visualization-1abc71605209)
 
 ## Papers and books
 * [Meta-Learning: Learning to Learn Fast](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html#optimization-based)
