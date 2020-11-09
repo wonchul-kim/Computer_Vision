@@ -39,7 +39,7 @@
 | Learning Deep Features for Discriminative Localization | [paper](https://arxiv.org/pdf/1512.04150.pdf) | [code](https://github.com/zhoubolei/CAM) |  |
 | CSPNet: A New Backbone that can Enhance Learning Capability of CNN | [paper](https://arxiv.org/pdf/1911.11929.pdf) | [code]() |  |
 
-### <span style="color:red">MUST read and implementMust read and implement</span>
+### MUST read and implement
 * [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)
 * [Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/pdf/1812.01187.pdf)
 
