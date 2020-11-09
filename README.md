@@ -28,10 +28,7 @@
 * [Approaches, Challenges, and Applications for Deep Visual Odometry: Toward to Complicated and Emerging Areas](https://arxiv.org/pdf/2009.02672.pdf)
 * [A 2020 guide to Semantic Segmentation](https://nanonets.com/blog/semantic-image-segmentation-2020/?fbclid=IwAR3G6Dabb99YMEfeS8ZZQ9Be6Z-8D0PtENX1G6Ot_SY5dssGVfsCOh6tw4s)
 
-### papers
-* image & video: detection, classification, segmentation, tracking, pose estimation, action recoginition, ...
-
-
+## Papers
 | title         | paper           | code  | review |
 |:-------------|:---------------:|:-----:|-------:|
 | Bootstrap your own latent: A new approach to self-supervised Learning | [paper](https://arxiv.org/abs/2006.07733) | [code](https://github.com/deepmind/deepmind-research/tree/master/byol) |   |
@@ -41,6 +38,11 @@
 | Asymmetric Loss For Multi-Label Classification | [paper](https://arxiv.org/pdf/2009.14119.pdf)| [code](https://github.com/Alibaba-MIIL/ASL)|  |
 | Learning Deep Features for Discriminative Localization | [paper](https://arxiv.org/pdf/1512.04150.pdf) | [code](https://github.com/zhoubolei/CAM) |  |
 | CSPNet: A New Backbone that can Enhance Learning Capability of CNN | [paper](https://arxiv.org/pdf/1911.11929.pdf) | [code]() |  |
+
+### <span style="color:red">MUST read and implementMust read and implement</span>
+* [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)
+* [Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/pdf/1812.01187.pdf)
+
 
 
 ### books
