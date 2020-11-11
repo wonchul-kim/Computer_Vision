@@ -8,7 +8,6 @@
 * 
 
 ## Tutorials and articles
-* [[AI TECH 컬럼] 어텐션에 대한 고찰](http://www.aitimes.kr/news/articleView.html?idxno=17623&fbclid=IwAR2toMXMoObBvQVt-qyiEydivowu-2y2208hf6hYn4rp-3fJdj1gQiJTXck)
 * [cv-learn](https://cv-learn.com/cv-learn-454b0d57429e44e68954ddddff22f7ca)
 * [pytorch tricks](https://wjddyd66.github.io/pytorch/Pytorch-Problem/)
 @@ -20,7 +29,7 @@
