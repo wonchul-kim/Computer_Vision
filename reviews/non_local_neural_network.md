@@ -19,5 +19,5 @@ CNN의 연산과정은 여러 개의 kernel을 사용하여 주어진 이미지�
 
 Non-local neural network는 기존의 CNN을 여러 층으로 구성하는 모델의 구조에서 삽입될 수 있다는 점에서 더욱 용이하며, 다음과 같은 수식으로 나타난다.
 
-$$ y_i = \frac{1}{C(x)}\sum_{\froall} f(x_i, x_j)g(x_j) $$
+$$ y_i = \frac{1}{C(x)}\sum_{\forall j} f(x_i, x_j)g(x_j) $$
 
