@@ -8,6 +8,7 @@
 * 
 
 ## Tutorials and articles
+[Visualization of Self-Attention Maps in Vision](https://epfml.github.io/attention-cnn/)
 * [cv-learn](https://cv-learn.com/cv-learn-454b0d57429e44e68954ddddff22f7ca)
 * [pytorch tricks](https://wjddyd66.github.io/pytorch/Pytorch-Problem/)
 @@ -20,7 +29,7 @@
@@ -39,6 +40,11 @@
 | Asymmetric Loss For Multi-Label Classification | [paper](https://arxiv.org/pdf/2009.14119.pdf)| [code](https://github.com/Alibaba-MIIL/ASL)|  |
 | Learning Deep Features for Discriminative Localization | [paper](https://arxiv.org/pdf/1512.04150.pdf) | [code](https://github.com/zhoubolei/CAM) |  |
 | CSPNet: A New Backbone that can Enhance Learning Capability of CNN | [paper](https://arxiv.org/pdf/1911.11929.pdf) | [code]() |  |
+| Batch Group Normalization | [paper](https://arxiv.org/pdf/2012.02782.pdf) | [code]() |  |
+| Dynamic Feature Pyramid Networks for Object Detection | [paper](https://arxiv.org/pdf/2012.00779.pdf) | [code]() |  |
+| Dual Refinement Feature Pyramid Networks for Object Detection | [paper](https://arxiv.org/pdf/2012.01733.pdf) | [code]() |  |
+|  | [paper]() | [code]() |  |
+|  | [paper]() | [code]() |  |
 
 ### MUST read and implement
 * [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)
