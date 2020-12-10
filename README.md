@@ -29,9 +29,9 @@
 * [bert]
 * [Approaches, Challenges, and Applications for Deep Visual Odometry: Toward to Complicated and Emerging Areas](https://arxiv.org/pdf/2009.02672.pdf)
 * [A 2020 guide to Semantic Segmentation](https://nanonets.com/blog/semantic-image-segmentation-2020/?fbclid=IwAR3G6Dabb99YMEfeS8ZZQ9Be6Z-8D0PtENX1G6Ot_SY5dssGVfsCOh6tw4s)
-https://study-grow.tistory.com/entry/%EB%85%BC%EB%AC%B8-%EC%9D%B4%ED%95%B4-Image-Based-Virtual-Try-on-Network-from-Unpaired-Data-%EC%84%A4%EB%AA%85
-http://jun0.kim/2019/04/06/mg-vton-paper-summary.html
-https://www.kdnuggets.com/2020/10/deep-learning-virtual-try-clothes.html
+* https://study-grow.tistory.com/entry/%EB%85%BC%EB%AC%B8-%EC%9D%B4%ED%95%B4-Image-Based-Virtual-Try-on-Network-from-Unpaired-Data-%EC%84%A4%EB%AA%85
+* http://jun0.kim/2019/04/06/mg-vton-paper-summary.html
+* https://www.kdnuggets.com/2020/10/deep-learning-virtual-try-clothes.html
 
 
 ## Papers
