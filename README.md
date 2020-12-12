@@ -1,7 +1,7 @@
 # Study Notes for Computer Vision
 
 ## Lectures
-* [CV3DST by TUM](https://dvl.in.tum.de/teaching/cv3dst-ws19/)
+* [Computer Vision III: Detection, Segmentation and Tracking (CV3DST) (IN2375) by TUM](https://dvl.in.tum.de/teaching/cv3dst-ws19/)
 * [CS294-158-SP20 Deep Unsupervised Learning Spring 2020](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
 * [Advanced Deep Learning for Computer vision (ADL4CV) (IN2364)](https://dvl.in.tum.de/teaching/adl4cv-ss20/?fbclid=IwAR3NMGvFHR8FXMFbKld4roJXBSXmkfV_PehDqKe2zI8gUPbb8AxtoWkopus)
 @@ -8,7 +17,7 @@
