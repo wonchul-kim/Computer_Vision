@@ -63,6 +63,36 @@ Images with PyTorch | [paper](https://arxiv.org/pdf/2012.02706.pdf) | [code]() |
 * [deep learning book](https://www.deeplearningbook.org/)
 
 
+#### Pose Estimation
+
+##### Single 
+* [DeepPose: Human Pose Estimation via Deep Neural Networks, CVPR2014](https://arxiv.org/pdf/1312.4659.pdf)
+
+* [Efficient Object Localization Using Convolution Networks, CVPR2015](https://arxiv.org/pdf/1411.4280.pdf)
+> 점이 아니라 확률을 이용하자! 즉, Heatmap 이용!
+
+* [Convolutional pose machines, CVPR2016](https://arxiv.org/pdf/1602.00134.pdf)
+> context와 신체구조 정보의 활용하자! 즉, 더 크게 보자!
+
+* [Stacked hourglass networks for human pose estimation. ECCV2016](https://arxiv.org/pdf/1603.06937.pdf)
+> 지역적 특징도 보아야한다! 즉, global + local 모두 고려하자!
+
+##### Multiple
+
+* [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields, CVPR2017](https://arxiv.org/pdf/1611.08050.pdf)
+> OPENPOSE: 일단 관절을 다 찾고 afiinity fields를 활용하여 묶음을 만들자
+
+* Yuanhao Cai, Res-Steps-Net for Multi-Person Pose Estimation, COCO keypoint challenge Track, Technical Report
+
+Refinement 기법 - posefix
+- 대부분의 휴먼초즈추정 시스템은 각각의 관절마다 공통적인 에러특성을 갖고 있다.
+- 실제 에러특성 확률 모델을 이용하여 가상의 에러 데이터를 합성하는 refine network 학습
+- 기존의 여러 알고리즘에 갖다 쓰기 편하며, 성능 개선 가능!
+* [PoseFix: Model-agnostic General Human Pose Refinement Network, CVPR2019](https://arxiv.org/pdf/1812.03595.pdf)
+
+## 3D Human Pose
+https://www.youtube.com/watch?v=GBpnsFfLt2Q&ab_channel=%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90AI%EC%97%B0%EA%B5%AC%EC%9B%90
+
 -------------------------------------------------------------------------------------------------------------------------------------------
 #### Architectures
 * [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
