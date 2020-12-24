@@ -1,11 +1,12 @@
 # Study Notes for Computer Vision
 
 ## Lectures
+* [TUM  Dynamic Vision and Learning Group](https://dvl.in.tum.de/teaching/)
+  * [Advanced Deep Learning for Computer vision (ADL4CV) (IN2364)](https://dvl.in.tum.de/teaching/adl4cv-ss20/?fbclid=IwAR3NMGvFHR8FXMFbKld4roJXBSXmkfV_PehDqKe2zI8gUPbb8AxtoWkopus)
+  * [Computer Vision III: Detection, Segmentation and Tracking (CV3DST) (IN2375) by TUM](https://dvl.in.tum.de/teaching/cv3dst-ss20/)
+
 * [Fei-Fie Li](http://vision.stanford.edu/teaching.html)
-* [Computer Vision III: Detection, Segmentation and Tracking (CV3DST) (IN2375) by TUM](https://dvl.in.tum.de/teaching/cv3dst-ss20/)
 * [CS294-158-SP20 Deep Unsupervised Learning Spring 2020](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
-* [Advanced Deep Learning for Computer vision (ADL4CV) (IN2364)](https://dvl.in.tum.de/teaching/adl4cv-ss20/?fbclid=IwAR3NMGvFHR8FXMFbKld4roJXBSXmkfV_PehDqKe2zI8gUPbb8AxtoWkopus)
-@@ -8,7 +17,7 @@
 * [Robotic Manipulation](http://manipulation.csail.mit.edu/Fall2020/?fbclid=IwAR3G6Dabb99YMEfeS8ZZQ9Be6Z-8D0PtENX1G6Ot_SY5dssGVfsCOh6tw4s)
 * 
 
