@@ -11,7 +11,10 @@
 * 
 
 ## Tutorials and articles
+http://m.hani.co.kr/arti/science/technology/975985.html?_fr=fb#cb
+
 [Visualization of Self-Attention Maps in Vision](https://epfml.github.io/attention-cnn/)
+
 * [cv-learn](https://cv-learn.com/cv-learn-454b0d57429e44e68954ddddff22f7ca)
 * [pytorch tricks](https://wjddyd66.github.io/pytorch/Pytorch-Problem/)
 @@ -20,7 +29,7 @@
@@ -51,8 +54,19 @@
 | Dynamic Feature Pyramid Networks for Object Detection | [paper](https://arxiv.org/pdf/2012.00779.pdf) | [code]() |  |
 | Dual Refinement Feature Pyramid Networks for Object Detection | [paper](https://arxiv.org/pdf/2012.01733.pdf) | [code]() |  |
 | Virtually Trying on New Clothing with Arbitrary Poses | [paper](https://xuemengsong.github.io/fp452-zhengA.pdf) | [code]() |  |
-| Super-Selfish: Self-Supervised Learning on
-Images with PyTorch | [paper](https://arxiv.org/pdf/2012.02706.pdf) | [code]() |  |
+| Super-Selfish: Self-Supervised Learning on Images with PyTorch | [paper](https://arxiv.org/pdf/2012.02706.pdf) | [code]() |  |
+| Graph Neural Networks: Taxonomy, Advances and Trends | [paper](https://arxiv.org/pdf/2012.08752.pdf) | [code]() |  |
+| A SURVEY ON CONTRASTIVE SELF-SUPERVISED LEARNING | [paper](https://arxiv.org/pdf/2011.00362.pdf) | [code]() |  |
+| A Survey on Visual Transformer | [paper](https://arxiv.org/pdf/2012.12556.pdf) | [code]() |  |
+| FcaNet: Frequency Channel Attention Networks | [paper](https://arxiv.org/pdf/2012.11879.pdf) | [code]() |  |
+| Global Context Networks | [paper](https://arxiv.org/pdf/2012.13375.pdf) | [code]() |  |
+| Deep Learning-Based Human Pose Estimation: A Survey | [paper](https://arxiv.org/pdf/2012.13392.pdf) | [code]() |  |
+|  | [paper]() | [code]() |  |
+|  | [paper]() | [code]() |  |
+|  | [paper]() | [code]() |  |
+
+
+
 
 ### MUST read and implement
 * [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)
