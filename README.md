@@ -65,7 +65,9 @@ http://m.hani.co.kr/arti/science/technology/975985.html?_fr=fb#cb
 |  | [paper]() | [code]() |  |
 |  | [paper]() | [code]() |  |
 
-
+### Imbalance problems of object detection
+* [papers](https://github.com/kemaloksuz/ObjectDetectionImbalance)
+* [Imbalance Problems in Object Detection: A Review](https://arxiv.org/pdf/1909.00169v1.pdf)
 
 
 ### MUST read and implement
