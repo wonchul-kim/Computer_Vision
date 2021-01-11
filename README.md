@@ -61,7 +61,10 @@ http://m.hani.co.kr/arti/science/technology/975985.html?_fr=fb#cb
 | FcaNet: Frequency Channel Attention Networks | [paper](https://arxiv.org/pdf/2012.11879.pdf) | [code]() |  |
 | Global Context Networks | [paper](https://arxiv.org/pdf/2012.13375.pdf) | [code]() |  |
 | Deep Learning-Based Human Pose Estimation: A Survey | [paper](https://arxiv.org/pdf/2012.13392.pdf) | [code]() |  |
-|  | [paper]() | [code]() |  |
+| Big Transfer (BiT): General Visual Representation Learning | [paper](https://arxiv.org/pdf/1912.11370.pdf) | [code]() |  |
+| Training data-efficient image transformers & distillation through attention | [paper](https://arxiv.org/pdf/2012.12877.pdf) | [code]() |  |
+| Imbalance Problems in Object Detection: A Review  | [paper](https://arxiv.org/pdf/1909.00169.pdf) | [code]() |  |
+| AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE | [paper](https://arxiv.org/pdf/2010.11929.pdf) | [code]() |  |
 |  | [paper]() | [code]() |  |
 |  | [paper]() | [code]() |  |
 
