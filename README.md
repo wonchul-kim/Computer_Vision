@@ -11,6 +11,8 @@
 * 
 
 ## Tutorials and articles
+https://www.kdnuggets.com/2021/01/top-10-computer-vision-papers-2020.html?fbclid=IwAR2C_ZG9CVGIOpcTn5D_nyUR7VpvSq1fhWm3hB7pCjddOy4J9FIXm4NyMSY
+
 http://m.hani.co.kr/arti/science/technology/975985.html?_fr=fb#cb
 
 [Visualization of Self-Attention Maps in Vision](https://epfml.github.io/attention-cnn/)
