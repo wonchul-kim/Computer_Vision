@@ -11,6 +11,9 @@
 * 
 
 ## Tutorials and articles
+
+* [multiple geometry 정리](https://edward0im.github.io/mathematics/2020/06/03/multiple-view-geometry1/)
+
 https://www.kdnuggets.com/2021/01/top-10-computer-vision-papers-2020.html?fbclid=IwAR2C_ZG9CVGIOpcTn5D_nyUR7VpvSq1fhWm3hB7pCjddOy4J9FIXm4NyMSY
 
 http://m.hani.co.kr/arti/science/technology/975985.html?_fr=fb#cb
