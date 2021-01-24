@@ -8,7 +8,7 @@
 * [Fei-Fie Li](http://svl.stanford.edu/)
 * [CS294-158-SP20 Deep Unsupervised Learning Spring 2020](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
 * [Robotic Manipulation](http://manipulation.csail.mit.edu/Fall2020/?fbclid=IwAR3G6Dabb99YMEfeS8ZZQ9Be6Z-8D0PtENX1G6Ot_SY5dssGVfsCOh6tw4s)
-* 
+* https://cs230.stanford.edu/past-projects/#winter-2019
 
 ## Tutorials and articles
 
